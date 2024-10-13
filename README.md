@@ -7,7 +7,7 @@ JBL Clone is a responsive web application designed to mimic the sleek and modern
 
 
 ## Demo
-![JBL Clone Demo](https://raw.githubusercontent.com/Otomatikci/repository/main/JBLClone.gif)
+![JBL Clone Demo](JBLClone.gif)
 
 ## Getting Started
 ### Prerequisites
