@@ -4,6 +4,11 @@
 ## Description
 JBL Clone is a responsive web application designed to mimic the sleek and modern aesthetic of JBL's official website. This project showcases various JBL models, their specifications, and features, allowing users to explore and purchase their favorite audio products. The site is built using HTML, CSS, and SCSS for styling.
 
+
+
+## Demo
+![JBL Clone Demo](https://raw.githubusercontent.com/Otomatikci/repository/main/JBLClone.gif)
+
 ## Getting Started
 ### Prerequisites
 - A web browser (Chrome, Firefox, etc.)
